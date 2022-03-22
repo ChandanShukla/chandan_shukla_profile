@@ -2,9 +2,9 @@
     "basic_info": {
         "image": "profile-pic.jpg",
         "name": {
-            "first_name": "Lorem ",
-            "middle_name": "elit",
-            "last_name": "Ipsum",
+            "first_name": "Chandan ",
+            "middle_name": "",
+            "last_name": "Shukla",
             "order": [
                 "first_name",
                 "middle_name",
@@ -22,7 +22,7 @@
             "emoji": "&#128222;"
         },
         "email_id": {
-            "value": "lorem.ipsum@gmail.com",
+            "value": "chandan.shukla@dal.ca",
             "emoji": "&#128232;",
             "emoji_style": {
                 "font-size": "20px"
@@ -30,17 +30,17 @@
         },
         "websites": [
             {
-                "name": "professional",
+                "name": "Chandan Shukla",
                 "labelKey": "professional",
                 "data": [
                     {
                         "name": "LinkedIn",
-                        "url": "",
+                        "url": "https://www.linkedin.com/in/chandan-shukla-01179186/",
                         "icon": "linkedin.svg"
                     },
                     {
                         "name": "GitHub",
-                        "url": "",
+                        "url": "https://github.com/ChandanShukla",
                         "icon": "github.svg"
                     },
                     {
@@ -49,19 +49,19 @@
                         "icon": "wordpress.svg"
                     },
                     {
-                        "name": "Codechef",
-                        "url": "",
+                        "name": "Leetcode",
+                        "url": "https://leetcode.com/xAchillesx/",
                         "icon": "codechef.svg"
                     },
                     {
                         "name": "Hackerrank",
-                        "url": "",
+                        "url": "https://www.hackerrank.com/4ch1lle5",
                         "icon": "hackerrank.svg"
                     }
                 ]
             },
             {
-                "name": "social",
+                "name": "Chandan Shukla",
                 "labelKey": "social",
                 "data": [
                     {
@@ -108,27 +108,21 @@
                         "size": "sm"
                     },
                     {
-                        "name": "Angular",
-                        "icon": "angular.svg",
-                        "percentage": 80,
-                        "size": "sm"
-                    },
-                    {
                         "name": "Javascript",
                         "icon": "javascript.svg",
                         "percentage": 85,
                         "size": "sm"
                     },
                     {
-                        "name": "Typescript",
-                        "icon": "typescript.svg",
+                        "name": "NodeJS",
+                        "icon": "nodejs.svg",
                         "percentage": 80,
                         "size": "sm"
                     },
                     {
-                        "name": "NodeJS",
-                        "icon": "nodejs.svg",
-                        "percentage": 80,
+                        "name": "ReactJS",
+                        "icon": "React-icon.svg",
+                        "percentage": 90,
                         "size": "sm"
                     }
                 ]
